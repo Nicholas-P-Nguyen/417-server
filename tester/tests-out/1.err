@@ -1,0 +1,5 @@
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+timeout: the monitored command dumped core
+Unexpected return code: 124

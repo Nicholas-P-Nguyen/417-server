@@ -1,0 +1,39 @@
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+pclient: ../src/io_helper.c:9: readline: Assertion `rc >= 0' failed.
+timeout: the monitored command dumped core
+Unexpected return code: 124
+timeout: the monitored command dumped core
+Unexpected return code: 124
+timeout: the monitored command dumped core
+Unexpected return code: 124
+timeout: the monitored command dumped core
+Unexpected return code: 124
+timeout: the monitored command dumped core
+timeout: timeout: the monitored command dumped coretimeout: the monitored command dumped core
+timeout: 
+the monitored command dumped coreUnexpected return code: 124
+
+timeout: Unexpected return code: 124
+the monitored command dumped core
+timeout: the monitored command dumped core
+the monitored command dumped coretimeout: 
+Unexpected return code: 124
+the monitored command dumped coretimeout: Unexpected return code: 124
+Unexpected return code: 124
+the monitored command dumped coreUnexpected return code: 124
+
+
+Unexpected return code: 124
+Unexpected return code: 124
+Unexpected return code: 124
